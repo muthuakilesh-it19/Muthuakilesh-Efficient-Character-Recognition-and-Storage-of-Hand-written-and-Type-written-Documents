@@ -1,0 +1,16 @@
+{
+    "links": [
+        {
+            "label": "Home",
+            "href": "/"
+        },
+        {
+            "label": "Type",
+            "href": "/Module_1"
+        },
+        {
+            "label": "Hand",
+            "href": "http://127.0.0.1:5000/"
+        }
+    ]
+}
